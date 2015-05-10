@@ -8,7 +8,7 @@ module.exports = React.createClass({
 
   render: function() {
     return (
-      <RaisedButton label="Primary" primary={true} />
+      <RaisedButton label="First section button" primary={true} />
     );
   }
 
